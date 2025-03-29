@@ -433,6 +433,8 @@
 "Assets/MoveCamera.cs"
 "Assets/PlayerCam.cs"
 "Assets/PlayerMovement.cs"
+"Assets/RestartGame.cs"
+"Assets/Timer.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 /deterministic

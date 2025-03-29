@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{D0075315-EEF8-F73A-C84B-4B3B622B64B6}</ProjectGuid>
+    <ProjectGuid>{B70A1C3D-F161-9CA3-6F41-1E63E97F3529}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.VisualScripting.Core</AssemblyName>
@@ -1286,11 +1286,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.InputSystem.Player.csproj">
-      <Project>{C5D77C2A-82B2-3C0D-A46F-063D1DAE65FF}</Project>
+      <Project>{3E182D59-9E95-650D-3012-77EF6C7F7833}</Project>
       <Name>Unity.InputSystem.Player</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.Player.csproj">
-      <Project>{57382AEC-BE90-26F6-0FAE-DE0DB6ED4957}</Project>
+      <Project>{44B0B070-EEC6-239F-0594-4260479F48FB}</Project>
       <Name>UnityEngine.UI.Player</Name>
     </ProjectReference>
   </ItemGroup>
